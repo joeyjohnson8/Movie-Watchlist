@@ -1,4 +1,4 @@
-# Movie-Watchlist
+# Movie Watchlist
 
 ## [Link Here](https://movie-watchlist-tracker.netlify.app)
 
